@@ -1,3 +1,5 @@
+This repo is for FTC Volunteer training (using Git).
+
 # myfirstrepo
 My first GitHub repo
 
